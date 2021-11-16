@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+
+#heading{
+    background-color: rgb(255, 168, 55);
+    border-radius: 10px;
+    border-color: black;
+    border-width: 5px;
+}
+
+#h1{
+    color: white;
+    line-height: 1.5;
+}
+
+canvas{
+    border-color: yellow;
+    border-width: 5px;
+    border-radius: 15px;
+    padding: auto;
+    margin: auto;
+}
+
+p{
+    margin-top: 15px;
+    line-height: 3;
+}
